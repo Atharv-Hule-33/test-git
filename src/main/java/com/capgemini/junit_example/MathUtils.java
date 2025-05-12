@@ -37,6 +37,9 @@ public class MathUtils {
 			result *= i;
 		return result;
 	}
+	public void check() {
+		System.out.println("change done");
+	}
 }
 
 
