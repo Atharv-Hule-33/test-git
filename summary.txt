@@ -1,0 +1,2 @@
+So now what we are trying is to perform various git operations and get the result and also try checking everything is working perfectly
+This is to check update-summary branch is in use for this text file
